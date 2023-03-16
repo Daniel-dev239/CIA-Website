@@ -1,0 +1,18 @@
+h2{
+      background-color:  ;
+      font-style : new times roman;
+      border-width: 5px;
+}
+
+body{
+      background-color: paleturquoise;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+      text-align: center;
+}
+nav{
+      text-align: center;
+      font-size: medium;
+}
